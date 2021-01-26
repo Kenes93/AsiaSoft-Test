@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<numbers>
+    <value>0</value>
+    <isEven>true</isEven>
+    <value>1</value>
+    <isEven>false</isEven>
+    <value>4</value>
+    <isEven>true</isEven>
+    <value>9</value>
+    <isEven>false</isEven>
+    <value>16</value>
+    <isEven>true</isEven>
+    <value>25</value>
+    <isEven>false</isEven>
+    <value>36</value>
+    <isEven>true</isEven>
+    <value>49</value>
+    <isEven>false</isEven>
+    <value>64</value>
+    <isEven>true</isEven>
+    <value>81</value>
+    <isEven>false</isEven>
+</numbers>

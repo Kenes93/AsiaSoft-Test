@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<numbers>
+    <value>0</value>
+    <isEven>true</isEven>
+    <value>1</value>
+    <isEven>false</isEven>
+    <value>4</value>
+    <isEven>true</isEven>
+    <value>9</value>
+    <isEven>false</isEven>
+    <value>16</value>
+    <isEven>true</isEven>
+    <value>25</value>
+    <isEven>false</isEven>
+    <value>36</value>
+    <isEven>true</isEven>
+    <value>49</value>
+    <isEven>false</isEven>
+    <value>64</value>
+    <isEven>true</isEven>
+    <value>81</value>
+    <isEven>false</isEven>
+    <value>100</value>
+    <isEven>true</isEven>
+    <value>121</value>
+    <isEven>false</isEven>
+    <value>144</value>
+    <isEven>true</isEven>
+    <value>169</value>
+    <isEven>false</isEven>
+    <value>196</value>
+    <isEven>true</isEven>
+    <value>225</value>
+    <isEven>false</isEven>
+    <value>256</value>
+    <isEven>true</isEven>
+    <value>289</value>
+    <isEven>false</isEven>
+    <value>324</value>
+    <isEven>true</isEven>
+    <value>361</value>
+    <isEven>false</isEven>
+    <value>400</value>
+    <isEven>true</isEven>
+    <value>441</value>
+    <isEven>false</isEven>
+</numbers>
